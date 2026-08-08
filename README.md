@@ -28,7 +28,7 @@ Yazılım ve donanımın kesişim noktalarına, verinin gücüne ve sistem güve
 ### 🛠️ Teknolojiler & Araçlar
 
 #### 💻 Programlama Dilleri
-`Java` `Python` `C` `C++ (Arduino)`
+`Java` `Python` `C` `C++ (Arduino)`,'Flutter'
 
 #### 🦾 Donanım & Yapay Zeka
 'Arduino' ,'OpenCV (Görüntü İşleme)','TensorFlow / PyTorch','YOLOv8'
