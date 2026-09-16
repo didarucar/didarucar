@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 👋 Merhaba, Ben Sivas Cumhuriyet Üniversitesi 2.sınıf Öğrencisi Hüsna Didar Uçar 👨‍💻 / 👩‍💻
+ 👋 Merhaba, Ben Sivas Cumhuriyet Üniversitesi 3.sınıf Öğrencisi Hüsna Didar Uçar 👨‍💻 / 👩‍💻
 
 ### 👀 Hakkımda
 Yazılım ve donanımın kesişim noktalarına, verinin gücüne ve sistem güvenliğine odaklanan bir geliştiriciyim. Robotik sistemlerden yapay zekaya kadar geniş bir yelpazede projeler üretiyor, sürekli öğrenerek kendimi geliştiriyorum ve öğrendiğim projelerimi bu uygulamada sizlerle paylaşacağım.
