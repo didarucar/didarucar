@@ -1,43 +1,92 @@
-## Hi there 👋
+# 👋 Hi, I'm **Hüsna Didar Uçar** 👩‍💻
 
- 👋 Merhaba, Ben Sivas Cumhuriyet Üniversitesi 3.sınıf Öğrencisi Hüsna Didar Uçar 👨‍💻 / 👩‍💻
+### 🚀 Computer Engineering Student | Embedded Systems & AI Enthusiast
 
-### 👀 Hakkımda
-Yazılım ve donanımın kesişim noktalarına, verinin gücüne ve sistem güvenliğine odaklanan bir geliştiriciyim. Robotik sistemlerden yapay zekaya kadar geniş bir yelpazede projeler üretiyor, sürekli öğrenerek kendimi geliştiriyorum ve öğrendiğim projelerimi bu uygulamada sizlerle paylaşacağım.
-
-* 🤖 **Robotik & Donanım:** Arduino ile gömülü sistemler tasarımı ve fiziksel programlama.
-* 👁️ **Görüntü İşleme & Yapay Zeka:** Bilgisayarlı görü (Computer Vision) ve akıllı sistemler üzerine çalışmalar.
-* 🛡️ **Siber Güvenlik:** Siber güvenlik alanına derin bir merak ve bu alanda temel araştırmalar.
-* 🐍 **Python:** Projelerimde yapay zeka ve veri işleme süreçlerini yönetmek için aktif olarak Python kullanıyorum.
+Computer Engineering student at **Sivas Cumhuriyet University** passionate about software, embedded systems, computer vision and autonomous technologies.
 
 ---
 
-### 🌱 Neler Öğreniyorum & Neler Üzerinde Çalışıyorum?
-* 🚀 **C Dili & Düşük Seviyeli Programlama:** C dilinde derinlemesine araştırmalar yapıyor, performans odaklı çalışmalar yürütüyorum.
-* 🧠 **Yapay Zeka:** Görüntü işleme algoritmalarını yapay zeka modelleriyle entegre etmeye odaklanıyorum.
-* 🛡️ **Siber Alan:** Ağ güvenliği ve sistem zafiyetleri üzerine teorik ve pratik araştırmalar yapıyorum.
+## 👀 About Me
+
+I am interested in combining software and hardware to develop intelligent and practical systems.
+
+- 🎓 **Education:** Computer Engineering Student at Sivas Cumhuriyet University
+- 🤖 **Robotics & Embedded Systems:** Arduino, sensors, motor control and hardware-software integration
+- 👁️ **Computer Vision:** Image processing and object detection projects
+- 🧠 **Artificial Intelligence:** Exploring AI models for autonomous systems
+- 🛡️ **Cybersecurity:** Learning network security, system vulnerabilities and ethical hacking
+- 🛩️ **Autonomous Systems:** Working on UAV and UGV projects for TEKNOFEST
+- 💻 **Software Development:** Java, Python, C, C++, Flutter and REST API projects
 
 ---
 
-### 📂 Repolarımda Neler Var?
-* ☕ **Java Lab Çalışmaları:** Üniversite/kurs eğitimim sürecinde Java diliyle geliştirdiğim tüm laboratuvar uygulamaları ve nesne yönelimli programlama örnekleri.
-* 🔌 **Arduino Projeleri:** Donanım ve yazılımı bir araya getirerek geliştirdiğim, devre şemalarıyla desteklenmiş gömülü sistem projeleri.
+## 🌱 Currently Working On & Exploring
+
+- 🛩️ Developing autonomous systems for **TEKNOFEST**
+- 👁️ Improving my knowledge of **image processing and computer vision**
+- 🤖 Developing Arduino-based robotic systems
+- 🐍 Practicing Python for artificial intelligence and data processing
+- 📱 Building mobile applications with Flutter
+- 🌐 Developing REST APIs with Node.js and Express.js
+- 🛡️ Learning cybersecurity and network security
+- 💡 Improving my skills in C and low-level programming
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+## 📂 Featured Projects
 
-#### 💻 Programlama Dilleri
-`Java` `Python` `C` `C++ (Arduino)`,'Flutter'
-
-#### 🦾 Donanım & Yapay Zeka
-'Arduino' ,'OpenCV (Görüntü İşleme)','TensorFlow / PyTorch','YOLOv8'
-
-#### 🛡️ Siber Güvenlik & Araçlar
- `Linux` `Wireshark` `Nmap`
+- 🛩️ **Yiğido ANKA:** Autonomous UAV and UGV system developed for TEKNOFEST
+- 🤖 **AI Interactive Arduino Robot:** Arduino-based robotic system
+- 👁️ **Image Processing:** Computer vision and image processing studies
+- 📱 **Mini Katalog App:** Flutter-based mobile application
+- 🌐 **Taskflow API:** Task and project management REST API
+- ☕ **Data Structures:** Java data structures laboratory applications
+- 🔌 **Robotic Coding with Arduino:** Embedded systems and robotics projects
 
 ---
 
-### 📫 Benimle İletişime Geçin
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/hüsna-didar-uçar-021856351/?skipRedirect=true]
-* 📧 **E-posta:** [husnadidarucar@gmail.com]
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 📱 Software & Frameworks
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🤖 Embedded Systems & AI
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+![Hüsna's GitHub stats](https://github-readme-stats.vercel.app/api?username=didarucar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=didarucar&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: Yakında eklenecek
+- 📧 Email: `husnadidarucar@gmail.com`
+- 🐙 GitHub: [github.com/didarucar](https://github.com/didarucar)
+
+---
+
+⭐ Thanks for visiting my profile!
