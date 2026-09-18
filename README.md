@@ -83,7 +83,7 @@ I am interested in combining software and hardware to develop intelligent and pr
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: Yakında eklenecek
+- 💼 LinkedIn: [https://www.linkedin.com/in/hüsna-didar-uçar-021856351?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
 - 📧 Email: `husnadidarucar@gmail.com`
 - 🐙 GitHub: [github.com/didarucar](https://github.com/didarucar)
 
